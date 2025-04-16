@@ -15,11 +15,17 @@ const skills = {
     languages: ['Java', 'Python', 'JavaScript','TypeScript'],
     frameworks: ['React', 'Django'],
     platforms: ['GitHub', 'Docker', 'Azure', 'Vercel'],
-    ai: ['OpenAI']
+    ai: ['OpenAI', 'Azure AI']
 };
 ```
 
 <h2>🚀 Key Projects</h2>
+
+<h4>Biztrack</h4>
+<p>BizTrack is a powerful full-stack business management application tailored for business owners to seamlessly manage their inventory, customers, invoices, and sales performance.</p>
+
+• Website: <a href="https://biztrack-five.vercel.app/">View Live</a><br />
+• Github:  <a href="https://github.com/sikatanju/biztrack-frontend/">Frontend</a> -- <a href="https://github.com/sikatanju/biztrack-backend/">Backend</a>
 
 <h4>Vocalearn (AI Enhanced)</h4>
 <p>A pronunciation assessment app that lets users record or upload audio files to evaluate their speaking accuracy, fluency, prosody, and completeness. It provides real-time feedback and scores to help improve language skills.</p>
