@@ -30,6 +30,7 @@ const skills = {
 <h4>Vocalearn (AI Enhanced)</h4>
 <p>A pronunciation assessment app that lets users record or upload audio files to evaluate their speaking accuracy, fluency, prosody, and completeness. It provides real-time feedback and scores to help improve language skills.</p>
 
+• Website: <a href="https://vocalearn-ai.vercel.app/">View Live</a><br />
 • Github: <a href="https://github.com/sikatanju/vocalearn-frontend/">Frontend</a> -- <a href="https://github.com/sikatanju/vocalearn-backend/">Backend</a>
 
 <h4>Game Fusion</h4>
